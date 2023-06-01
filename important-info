@@ -1,0 +1,10 @@
+Important Information:
+The default bank balance is set at 50000.
+The ATM balance is set at 20000.
+The PIN is harcoded to be '1234'.
+The ATM can only allow withdrawals in the multiples of 50.
+There are only a specific set of denominations set inside the ATM which can be seen in the withdrawal screen of the ATM.
+There is a timeout for screen changes harcoded into the program.
+There is a beep function integrated into the program which uses the 'windows.h' header and may not work on all systems and may throw and error.
+
+All the above details can be changed in the code of the program, so feel free to change as per your will!
